@@ -1,0 +1,35 @@
+[
+  {
+  "id":"2",
+    "title": "商品管理",
+    "path": "/admin",
+    "children": [
+      {
+	  "id":"3",
+        "title": "商品列表",
+        "path": "/admin/goods-list"
+      },
+      {
+	  "id":"4",
+        "title": "商品详情",
+        "path": "/admin/goods-info"
+      }
+    ]
+  },
+  {
+  "id":"5",
+    "title": "用户管理",
+    "path": "/user",
+    "children": [
+      {
+	  "id":"6",
+        "title": "用户列表",
+        "path": "user/user-list"
+      },
+      {
+	  "id":"7",
+        "title": "用户设置",
+        "path": "user/user-setting"
+      }
+    ]
+  }]

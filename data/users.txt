@@ -1,0 +1,8 @@
+photo:用户头像
+is_media:是否是自媒体，0否，1是
+intro:简介
+certi:自媒体认证说明
+art_count:发布文章数目
+follow_count：关注的数目
+fans_count:被关注的数目(粉丝数目)
+like_count:被点赞数
